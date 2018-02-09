@@ -1,0 +1,17 @@
+.past-search-wrapper {
+  text-align: center;
+}
+
+.title {
+  padding: 0 12px 2px;
+  border-bottom: 1px solid #008ee0;
+}
+
+
+.text-wrapper {
+  cursor: pointer;
+}
+
+.text-wrapper:hover p {
+  font-weight: bold
+}

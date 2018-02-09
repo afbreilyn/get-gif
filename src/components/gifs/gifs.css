@@ -1,0 +1,46 @@
+.Gif_page_container {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.searchBar {
+  width: 100%;
+  padding: 0 6px;
+  margin: 24px 0;
+}
+
+.gif-container {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  width: 730px;
+}
+
+.message-wrapper {
+  width: 730px;
+  text-align: center;
+}
+
+.gif-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 160px;
+  height: 160px;
+  padding: 4px;
+}
+
+.gif-preview {
+  max-width: 152px;
+  max-height: 152px;
+}
+
+.previousSearches {
+  width: 220px;
+  height: 20px;
+  background: green;
+  padding: 16px 12px;
+  margin: 6px;
+}
