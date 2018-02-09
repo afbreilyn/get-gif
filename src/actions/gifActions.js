@@ -1,6 +1,6 @@
 import * as types from './actionTypes'
 import axios from 'axios'
-import * as keys from '../../secret.js'
+import * as keys from '../secret.js'
 
 export function getTrendingGifs() {
   return (dispatch) => {
