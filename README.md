@@ -1,6 +1,9 @@
 # GetGif
 this is a simple demo app that uses the GIPHY api for all sorts of fun times
 
+set up: 
+- you'll need a secret key from giphy! put is in `secret.js` in the src folder
+
 to run:
 - `npm install`
 - `npm start`
